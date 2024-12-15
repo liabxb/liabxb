@@ -1,4 +1,4 @@
-__#Калькултор на зыке Python__
+                                                                                                                           __# КАЛЬКУЛЯТОР НА ЯЗЫКЕ Python__
 ***
 ## [Ссылка на проектное задание](https://colab.research.google.com/drive/1a5FJUGiIR9q-1kRTjUTyjcKuvGOjwW3s?hl=ru#revisionId=0B6oDFxBFGTJ2TldOWXdWN211bldTMzR0d1h3cld5U1hkOTdFPQ)
 ## [Ссылка на видео с презентацией проекта]()
