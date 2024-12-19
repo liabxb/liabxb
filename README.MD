@@ -1,7 +1,7 @@
 # To-Do List на языке Python
 ***
 ## [Ссылка на To-Do List](https://colab.research.google.com/drive/1W2PxyFSbCTNnrcUIUQnp0KtBKvTSsYp8?hl=ru)
-## [Ссылка на видео-презентацию]
+## [Ссылка на видео-презентацию](https://drive.google.com/file/d/11oGOLhXbb5QBJLPHn76zGCEQxVKxXTEc/view?usp=sharing)
 ***
 Проект представляет собой простое приложение To-Do List, созданное на языке программирования Python. Оно предназначено для управления списком задач пользователя, предоставляя возможность добавлять, просматривать и удалять задачи.
 
